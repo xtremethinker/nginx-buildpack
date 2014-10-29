@@ -45,6 +45,9 @@ echo "Downloading $headers_more_nginx_module_url"
 	make install
 )
 
+echo "vamsee crap"
+ls
+
 while true
 do
 	sleep 1
